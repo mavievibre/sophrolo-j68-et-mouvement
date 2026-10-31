@@ -3,6 +3,8 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-# L'Échappée Belle
+La Sophrologie 
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Chaque chemin commence par un pas vers soi
+
+Venez vous reconnecter à se qui se passe à l' interieur de vous, prenez le temps d' écouter votre corps, d'accueillir vos émotions et d' apaiser vos pensées. Retrouver votre équilibre intérieur, redonner du sens à votre existence avec le plaisir de vous sentir  pleinement vivant et plus serein. 
