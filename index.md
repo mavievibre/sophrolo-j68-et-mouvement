@@ -3,8 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![logo sophrologie]({% link images/Sophrolo j68.png %})
-
+![logo sophro68]({% link images/2.png %})
 
 ![chemin vers le soleil]({% link images/chemin.png %})
 
