@@ -1,5 +1,5 @@
 ---
-title: "La Sophrologie Existentielle"
+title: "La Sophro danse"
 order: 2
 in_menu: true
 ---
