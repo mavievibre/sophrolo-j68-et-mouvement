@@ -1,6 +1,6 @@
 ---
 title: "Brain ball"
-order: 6
+order: 5
 in_menu: true
 ---
  
