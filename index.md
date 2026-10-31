@@ -3,7 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/chemin.png %})
+![chemin vers le soleil]({% link images/chemin.png %})
 
 
 
