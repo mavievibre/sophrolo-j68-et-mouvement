@@ -1,6 +1,6 @@
 ---
 title: "La Sophrologie  Existentielle"
-order: 1
+order: 2
 in_menu: true
 blog_index: true
 ---

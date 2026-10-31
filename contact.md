@@ -1,6 +1,5 @@
 ---
 title: "contact"
-order: 6
+order: 1
 in_menu: true
 ---
- 
