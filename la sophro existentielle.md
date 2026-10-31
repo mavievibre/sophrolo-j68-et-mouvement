@@ -1,5 +1,5 @@
 ---
-title: "La Sophro Danse"
+title: "La Sophro Existentielle"
 order: 1
 in_menu: true
 blog_index: true
