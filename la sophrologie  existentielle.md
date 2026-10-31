@@ -1,5 +1,5 @@
 ---
-title: "La Sophro Existentielle"
+title: "La Sophrologie  Existentielle"
 order: 1
 in_menu: true
 blog_index: true
