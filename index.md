@@ -5,7 +5,8 @@ in_menu: true
 ---
 ![logosophrologie({% link images/4.png %
 
- ![chemin vers le soleil]({% link images/chemin.png %})
+ ![cheminverssoleil]({% link images/chemin.png %})
+
 
 
 
