@@ -3,6 +3,10 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
+![Texte décrivant l'image]({% link images/chemin.png %})
+
+
+
 ## La Sophrologie 
 ## Chaque chemin commence par un pas vers soi
 
