@@ -3,9 +3,9 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![logosophrologie]({% link images/3.png %})
+![logosophrologie({% link images/4.png %})
 
-                    ![chemin vers le soleil]({% link images/chemin.png %})
+                           ![chemin vers le soleil]({% link images/chemin.png %})
 
 
 
@@ -13,3 +13,7 @@ in_menu: true
 ## Chaque chemin commence par un pas vers soi
 
  Venez vous reconnecter à se qui se passe à l' interieur de vous, prenez le temps d' écouter votre corps, d'accueillir vos émotions et d' apaiser vos pensées. Retrouver votre équilibre intérieur, redonner du sens à votre existence avec le plaisir de vous sentir  pleinement vivant et plus serein. 
+
+
+sophroexistelys@posteo.com                                    Sophrologue certifié RNCP
+06 49 67 76 71 
