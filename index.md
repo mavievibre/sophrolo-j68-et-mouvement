@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![logo sophro68]({% link images/2.png %})
 
-![chemin vers le soleil]({% link images/chemin.png %})
+                    ![chemin vers le soleil]({% link images/chemin.png %})
 
 
 
