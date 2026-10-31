@@ -3,9 +3,9 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![logosophrologie({% link images/4.png %})
+![logosophrologie({% link images/4.png %
 
-                           ![chemin vers le soleil]({% link images/chemin.png %})
+ ![chemin vers le soleil]({% link images/chemin.png %})
 
 
 
