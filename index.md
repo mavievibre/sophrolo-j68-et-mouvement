@@ -3,9 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![logosophrologie({% link images/4.png %
-
- ![cheminverssoleil]({% link images/chemin.png %})
+![cheminverssoleil]({% link images/chemin.png %})
 
 
 
