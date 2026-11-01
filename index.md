@@ -14,4 +14,5 @@ in_menu: true
 
 
 sophroexistelys@posteo.com  06 49 67 76 71                                  
- Sophrologue certifié RNCP ![logo ecole]({% link images/logo ecole .webp %}) 
+ Sophrologue certifié RNCP
+ ![logo ecole]({% link images/logo ecole .webp %}) 
