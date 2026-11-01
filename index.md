@@ -3,8 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![cheminverssoleil]({% link images/chemin.png %})
-
+![chemin ensoleille]({% link images/chemin_ensoleille_dans_la_foret.png %})
 
 
 
